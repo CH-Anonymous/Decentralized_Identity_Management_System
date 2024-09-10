@@ -28,5 +28,5 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Mindgamer1024/Decentralized_Identity_Management_System.git
+   git clone https://github.com/CH-Anonymous/Decentralized_Identity_Management_System.git
    cd Decentralized_Identity_Management_System
